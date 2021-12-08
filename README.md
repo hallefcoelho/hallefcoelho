@@ -1,4 +1,4 @@
-### Olá! eu sou chamo Hallef Brendo, estudante de Desenvolvimento Front-End!
+### Olá! eu sou Hallef Brendo, estudante de Desenvolvimento Front-End!
 
 <!--
 
