@@ -1,23 +1,20 @@
-### Olá! eu sou Hallef Brendo, estudante de Desenvolvimento Front-End!
+### Olá! eu sou Hallef Brendo, sejam bem vindo(a)!
 
-<!--
+- 🎂 28 anos
+- 💻 Cursando Web Full Stack na Let's Code
+- 💻 Cursando Analise e desenvolvimento de sistemas na Estácio
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando ReactJS
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
 
 <div align="center">
   <a href="https://github.com/hallefcoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hallefcoelho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallefcoelho&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
- </div>
+
+ <hr>
+ 
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
