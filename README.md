@@ -2,7 +2,7 @@
 
 - 🎂 28 anos
 - 💻 Cursando Web Full Stack na Let's Code
-- 💻 Cursando Analise e desenvolvimento de sistemas na Estácio
+- 💻 Cursando Analise e Desenvolvimento de Sistemas na Estácio
 
 <hr>
 
