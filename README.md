@@ -12,7 +12,7 @@
   <img height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallefcoelho&layout=compact&langs_count=7&theme=radical"/>
 </div> -->
 
- <hr>
+<!--  <hr> -->
  
 </div>
 <div style="display: inline_block"><br>
