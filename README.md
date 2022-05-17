@@ -1,6 +1,6 @@
 # Hallef Brendo
 
-- 💻 Desenvolvedor Front-End
+- 💻 Desenvolvedor Front-End Developer
 - 🎂 28 anos
 - 💻 Cursando Web Full Stack na Let's Code
 - 💻 Cursando Analise e Desenvolvimento de Sistemas na Estácio
