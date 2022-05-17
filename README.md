@@ -1,10 +1,11 @@
-### Olá! eu sou Hallef Brendo, sejam bem vindo(a)!
+# Hallef Brendo
 
+- 💻 Desenvolvedor Front-End
 - 🎂 28 anos
 - 💻 Cursando Web Full Stack na Let's Code
 - 💻 Cursando Analise e Desenvolvimento de Sistemas na Estácio
 
-<hr>
+<!-- <hr> -->
 
 <!-- <div align="center">
   <a href="https://github.com/hallefcoelho">
@@ -13,7 +14,7 @@
 </div> -->
 
 <!--  <hr> -->
- 
+ ## 🛠️ Skills
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +24,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
 
-##
+## Contatos
 
 <div class="box" style> 
   <a href="https://www.instagram.com/hallef.coelho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
