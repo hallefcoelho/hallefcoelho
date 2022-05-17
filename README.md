@@ -4,6 +4,7 @@
 - 🎂 28 anos
 - 💻 Cursando Web Full Stack na Let's Code
 - 💻 Cursando Analise e Desenvolvimento de Sistemas na Estácio
+- 🆙 Cerficado pela Udemy ( Angular 2 (v13+) Typescript do Básico ao Avançado ) 
 
 <!-- <hr> -->
 
