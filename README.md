@@ -3,8 +3,8 @@
 - 💻 Desenvolvedor Front-End Developer
 - 🎂 28 anos
 - 💻 Cursando Web Full Stack na Let's Code
-- 💻 Cursando Analise e Desenvolvimento de Sistemas na Estácio
 - 🆙 Cerficado pela Udemy ( Angular 2 (v13+) Typescript do Básico ao Avançado ) 
+- 🆙 Cerficado pela Digital Innovation One ( Trabalhando com Páginas SPA com Angular ) 
 
 <!-- <hr> -->
 
