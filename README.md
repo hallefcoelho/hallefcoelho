@@ -1,6 +1,6 @@
 # Hallef Brendo
 
-- 💻 Desenvolvedor Front-End Developer
+- 💻 Front-End Developer
 - 🎂 28 anos
 - 💻 Cursando Web Full Stack na Let's Code
 - 🆙 Cerficado pela Udemy ( Angular 2 (v13+) Typescript do Básico ao Avançado ) 
