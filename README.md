@@ -5,6 +5,7 @@
 - 💻 Cursando Web Full Stack na Let's Code
 - 🆙 Cerficado pela Udemy ( Angular 2 (v13+) Typescript do Básico ao Avançado ) 
 - 🆙 Cerficado pela Digital Innovation One ( Trabalhando com Páginas SPA com Angular ) 
+- 🆙 Cerficado pela Alura ( Angular: Explorando o framework ) 
 
  ## 🔗 SITE
  [Meu Site](https://hallefcoelho.github.io/hallef-brendo/)
