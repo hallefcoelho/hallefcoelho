@@ -1,12 +1,15 @@
 # Hallef Brendo
 
-- 💻 Front-End Developer
+- 💻 Desenvolvedor Front-End
 - 🎂 28 anos
-- 💻 Cursando Web Full Stack na Let's Code
-- 🆙 Cerficado pela Udemy ( Angular 2 (v13+) Typescript do Básico ao Avançado ) 
-- 🆙 Cerficado pela Digital Innovation One ( Trabalhando com Páginas SPA com Angular ) 
-- 🆙 Cerficado pela Alura ( Angular: Explorando o framework ) 
 
+## :memo: CERTIFICADOS
+- 🆙 Cerficado pela Udemy - [ Angular 2 (v13+) Typescript do Básico ao Avançado ](https://www.udemy.com/certificate/UC-278a68aa-1a08-45b6-9d25-85eb68412409/)
+- 🆙 Cerficado pela Digital Innovation One - [ Trabalhando com Páginas SPA com Angular ](https://www.dio.me/certificate/118D6113/share)
+- 🆙 Cerficado pela Alura - [ Angular: boas práticas em arquiteturas e formulários ](https://cursos.alura.com.br/certificate/e1738b21-ea07-44e7-b2d9-7e4d53dc7073) 
+- 🆙 Cerficado pela Alura - [ Angular: Explorando o framework ](https://cursos.alura.com.br/certificate/1be87cfd-9aac-48a1-8612-95fad7a3a77a) 
+- 🆙 Cerficado pela Alura - [ Angular: produtividade e organização com framework SPA ](https://cursos.alura.com.br/certificate/17f7ee64-1e5c-4756-a2a6-0ec91efbd805) 
+:book:
  ## 🔗 SITE
  [Meu Site](https://hallefcoelho.github.io/hallef-brendo/)
 
