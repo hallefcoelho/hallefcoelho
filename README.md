@@ -9,11 +9,12 @@
 - 🆙 Cerficado pela Alura - [ Angular: boas práticas em arquiteturas e formulários ](https://cursos.alura.com.br/certificate/e1738b21-ea07-44e7-b2d9-7e4d53dc7073) 
 - 🆙 Cerficado pela Alura - [ Angular: Explorando o framework ](https://cursos.alura.com.br/certificate/1be87cfd-9aac-48a1-8612-95fad7a3a77a) 
 - 🆙 Cerficado pela Alura - [ Angular: produtividade e organização com framework SPA ](https://cursos.alura.com.br/certificate/17f7ee64-1e5c-4756-a2a6-0ec91efbd805) 
-:book:
- ## 🔗 SITE
- [Meu Site](https://hallefcoelho.github.io/hallef-brendo/)
 
+ <!--- ## 🔗 SITE
+ [Meu Site](https://hallefcoelho.github.io/hallef-brendo/)
+ (asdasdas) 
 <br>
+-->
 
 <hr>
 <div align="center">
@@ -23,7 +24,7 @@
 </div> 
 <hr>
 
-<br>
+
 
  ## 🛠️ Skills
 </div>
