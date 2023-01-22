@@ -9,6 +9,10 @@
 - 🆙 Cerficado pela Alura - [ Angular: boas práticas em arquiteturas e formulários ](https://cursos.alura.com.br/certificate/e1738b21-ea07-44e7-b2d9-7e4d53dc7073) 
 - 🆙 Cerficado pela Alura - [ Angular: Explorando o framework ](https://cursos.alura.com.br/certificate/1be87cfd-9aac-48a1-8612-95fad7a3a77a) 
 - 🆙 Cerficado pela Alura - [ Angular: produtividade e organização com framework SPA ](https://cursos.alura.com.br/certificate/17f7ee64-1e5c-4756-a2a6-0ec91efbd805) 
+- 🆙 Cerficado pela Alura - [ Angular e RXJS: Programação reativa ](https://cursos.alura.com.br/certificate/103f0fb5-035a-4cfe-a01a-546a6fd94e38) 
+- 🆙 Cerficado pela Alura - [ Bootstrap 4: Criando uma landing page responsiva ](https://cursos.alura.com.br/certificate/fafb67cb-075f-4eba-bb2e-d24bf86983ec)
+- 🆙 Cerficado pela Alura - [ Node.Js: Criando sua primeira biblioteca ](https://cursos.alura.com.br/certificate/1ba244f8-fc33-4737-9f86-66063ed9bba4)
+- 🆙 Cerficado pela Alura - [ Http: Entendendo a web por baixo dos panos ](https://cursos.alura.com.br/certificate/ecbe5c87-4f3b-4244-a910-9a385455b1c7)
 
  <!--- ## 🔗 SITE
  [Meu Site](https://hallefcoelho.github.io/hallef-brendo/)
