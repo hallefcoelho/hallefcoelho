@@ -1,7 +1,7 @@
 # Hallef Brendo
 
 - 💻 Desenvolvedor Front-End
-- 🎂 28 anos
+- 🎂 29 anos
 
 ## :memo: CERTIFICADOS
 - 🆙 Cerficado pela Udemy - [ Angular 2 (v13+) Typescript do Básico ao Avançado ](https://www.udemy.com/certificate/UC-278a68aa-1a08-45b6-9d25-85eb68412409/)
