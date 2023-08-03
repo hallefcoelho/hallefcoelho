@@ -1,7 +1,25 @@
 # Hallef Brendo
 
-- 💻 Desenvolvedor Front-End
-- 🎂 29 anos
+"👨‍💻 Desenvolvedor Front-End Angular | 🎨 Designer Criativo
+
+ <!--- ## 🔗 SITE
+ [Meu Site](https://hallefcoelho.github.io/hallef-brendo/)
+ (asdasdas) 
+<br>
+-->
+
+Olá! Me chamo Hallef, sou um desenvolvedor apaixonado por Angular e um designer criativo com uma missão: criar experiências digitais excepcionais. Tenho habilidades sólidas em projetar e implementar interfaces elegantes e funcionais usando Angular, HTML, CSS e JavaScript.
+
+Minha abordagem única e multidisciplinar me permite unir minha paixão pelo design e desenvolvimento, entregando produtos com usabilidade intuitiva e aparência impressionante. Ao longo da minha jornada, tive o privilégio de trabalhar em projetos empolgantes, onde meu olhar para o detalhe e minha criatividade se destacaram, proporcionando resultados excepcionais.
+
+🔍 Principais habilidades:
+
+Desenvolvimento front-end com Angular (2+), HTML, CSS e JavaScript.
+Prototipagem e design de interfaces de usuário (UI) e experiências de usuário (UX).
+Colaboração efetiva com equipes de desenvolvimento e design para projetos bem-sucedidos.
+Adoção de melhores práticas e padrões do setor para garantir códigos limpos e escaláveis.
+
+🚀 Sou movido por desafios e apaixonado por criar soluções inovadoras que impactem positivamente os usuários e as empresas. Estou sempre em busca de novas oportunidades para contribuir com projetos emocionantes e me aprimorar constantemente.
 
 ## :memo: CERTIFICADOS
 - 🆙 Cerficado pela Udemy - [ Angular 2 (v13+) Typescript do Básico ao Avançado ](https://www.udemy.com/certificate/UC-278a68aa-1a08-45b6-9d25-85eb68412409/)
