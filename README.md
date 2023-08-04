@@ -37,23 +37,23 @@ Adoção de melhores práticas e padrões do setor para garantir códigos limpos
 
 <details align="left">
   <summary>CERTIFICADOS</summary> 
-   - 🆙 Cerficado pela Udemy - <a href="https://www.udemy.com/certificate/UC-278a68aa-1a08-45b6-9d25-85eb68412409" {:target="_blank" rel="noopener"}>Angular 2 (v13+) Typescript do Básico ao Avançado</a>
+   - 🆙 Cerficado pela Udemy - <a href="https://www.udemy.com/certificate/UC-278a68aa-1a08-45b6-9d25-85eb68412409">Angular 2 (v13+) Typescript do Básico ao Avançado</a>
     <br>
-   - 🆙 Cerficado pela Digital Innovation One - <a href="https://www.dio.me/certificate/118D6113/share" {:target="_blank" rel="noopener"}>Trabalhando com Páginas SPA com Angular</a>
+   - 🆙 Cerficado pela Digital Innovation One - <a href="https://www.dio.me/certificate/118D6113/share">Trabalhando com Páginas SPA com Angular</a>
     <br>
-   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/e1738b21-ea07-44e7-b2d9-7e4d53dc7073" {:target="_blank" rel="noopener"}>Angular: boas práticas em arquiteturas e formulários</a>
+   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/e1738b21-ea07-44e7-b2d9-7e4d53dc7073">Angular: boas práticas em arquiteturas e formulários</a>
     <br>
-   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/1be87cfd-9aac-48a1-8612-95fad7a3a77a" {:target="_blank" rel="noopener"}> Angular: Explorando o framework</a>
+   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/1be87cfd-9aac-48a1-8612-95fad7a3a77a"> Angular: Explorando o framework</a>
     <br>
-   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/17f7ee64-1e5c-4756-a2a6-0ec91efbd805" {:target="_blank" rel="noopener"}>Angular: produtividade e organização com framework SPA</a>
+   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/17f7ee64-1e5c-4756-a2a6-0ec91efbd805">Angular: produtividade e organização com framework SPA</a>
     <br>
-   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/103f0fb5-035a-4cfe-a01a-546a6fd94e38" {:target="_blank" rel="noopener"}>Angular e RXJS: Programação reativa</a>
+   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/103f0fb5-035a-4cfe-a01a-546a6fd94e38">Angular e RXJS: Programação reativa</a>
     <br>
-   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/fafb67cb-075f-4eba-bb2e-d24bf86983ec" {:target="_blank" rel="noopener"}>Bootstrap 4: Criando uma landing page responsiva</a>
+   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/fafb67cb-075f-4eba-bb2e-d24bf86983ec">Bootstrap 4: Criando uma landing page responsiva</a>
     <br>
-   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/1ba244f8-fc33-4737-9f86-66063ed9bba4" {:target="_blank" rel="noopener"}>Node.Js: Criando sua primeira biblioteca</a>
+   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/1ba244f8-fc33-4737-9f86-66063ed9bba4">Node.Js: Criando sua primeira biblioteca</a>
     <br>
-   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/ecbe5c87-4f3b-4244-a910-9a385455b1c7" {:target="_blank" rel="noopener"}>Http: Entendendo a web por baixo dos panos</a>
+   - 🆙 Cerficado pela Alura - <a href="https://cursos.alura.com.br/certificate/ecbe5c87-4f3b-4244-a910-9a385455b1c7">Http: Entendendo a web por baixo dos panos</a>
     <br> 
 </details>
 
