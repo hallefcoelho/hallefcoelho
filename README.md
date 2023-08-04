@@ -1,5 +1,3 @@
-# Hallef Brendo
-
 "👨‍💻 Desenvolvedor Front-End Angular | 🎨 Designer Criativo
 
  <!--- ## 🔗 SITE
