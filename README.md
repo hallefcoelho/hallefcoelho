@@ -1,4 +1,4 @@
-"👨‍💻 Desenvolvedor Front-End Angular | 🎨 Designer Criativo
+👨‍💻 Desenvolvedor Front-End Angular | 🎨 Designer Criativo
 
  <!--- ## 🔗 SITE
  [Meu Site](https://hallefcoelho.github.io/hallef-brendo/)
