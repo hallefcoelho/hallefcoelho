@@ -6,13 +6,13 @@
 <br>
 -->
 
-Olá! Me chamo Hallef, sou um desenvolvedor apaixonado por Angular e um designer criativo com uma missão: criar experiências digitais excepcionais. Tenho habilidades sólidas em projetar e implementar interfaces elegantes e funcionais usando Angular, HTML, CSS e JavaScript.
+Olá! Me chamo Hallef, sou um desenvolvedor apaixonado por programação e um designer criativo com uma missão: criar experiências digitais excepcionais. Tenho habilidades sólidas em projetar e implementar interfaces elegantes e funcionais usando Angular, HTML, CSS e TypeScript.
 
 Minha abordagem única e multidisciplinar me permite unir minha paixão pelo design e desenvolvimento, entregando produtos com usabilidade intuitiva e aparência impressionante. Ao longo da minha jornada, tive o privilégio de trabalhar em projetos empolgantes, onde meu olhar para o detalhe e minha criatividade se destacaram, proporcionando resultados excepcionais.
 
 🔍 Principais habilidades:
 
-Desenvolvimento front-end com Angular (2+), HTML, CSS e JavaScript.
+Desenvolvimento front-end com Angular (2+), HTML, CSS e TypeScript.
 Prototipagem e design de interfaces de usuário (UI) e experiências de usuário (UX).
 Colaboração efetiva com equipes de desenvolvimento e design para projetos bem-sucedidos.
 Adoção de melhores práticas e padrões do setor para garantir códigos limpos e escaláveis.
