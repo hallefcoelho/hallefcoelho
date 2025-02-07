@@ -75,8 +75,8 @@ Adoção de melhores práticas e padrões do setor para garantir códigos limpos
  
  <!--- 
   ![Snake animation](https://github.com/hallefcoelho/hallefcoelho/blob/output/github-contribution-grid-snake.svg)
- --->
  ![snake animation](https://github.com/hallefcoelho/hallefcoelho/blob/output/github-contribution-grid-snake2.svg)
+ --->
 
 </div>
 
